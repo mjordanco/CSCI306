@@ -1,3 +1,3 @@
 CSCI306
+second edit 9/23
 =======
-First draft - 9/21
