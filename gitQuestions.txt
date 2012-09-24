@@ -1,0 +1,21 @@
+1) Git uses SHA-1 hash by adding it to each commit, this is how it keeps track of commits and any conflicts from a couple of commits.
+2) Modified is when you change something in the files. it's the first stage
+	Staged means it's in a queue of what you want to do. You can choose what you want to do.
+	commited adds a commit tag to it, therefore it's a full version of the product
+3) The working directory is your local directory which includes modified, commits, and all the local files.
+	It means whether git can change things to the file, such as merge, push, pull, commit.
+4) a remote repository is an area/spot to store code to a non local server.
+
+1) git init
+2) git add README.txt
+3) git add *.java
+4) git status
+5)git mv README README.txt
+6) git add -u code.java
+7) git status
+8) git rm -f junk.java
+	git rm --cached junk.java
+9) git log
+10) git log -n 2
+11) git log --since="Sept 1"
+12)
