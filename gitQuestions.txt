@@ -24,7 +24,7 @@
 15) git remote
 16) git clone git://github.com/crader@mines.edu/DemoJava.git
 
-1) 
+1) when it gets added to the staging area then modified before committing.
 2) git add will both start tracking a file in the repository, and stage a file
 3) .gitignore is a file that defines types of files that git should not track in the repo. Commonly this will include compiled files, or other machine specific files.
 4) git checkout -- myCode.java completely discards any local changes to the file myCode.java. Checkout it dangerous because it isn't necessarily recoverable.
